@@ -2,7 +2,8 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-   <header>uoba
+   <header className="flex-auto">
+    uoba
 
    </header>
   );
